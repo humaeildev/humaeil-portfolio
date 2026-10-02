@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600" fill="none">
+  <rect width="900" height="600" fill="#E8E5DC"/>
+  <rect x="50" y="50" width="800" height="500" rx="8" fill="#F4F3EF" stroke="#D3CFBF" stroke-width="2"/>
+  
+  <rect x="90" y="90" width="720" height="340" rx="6" fill="#D3CEBE"/>
+  <rect x="130" y="130" width="300" height="24" rx="4" fill="#161616"/>
+  <rect x="130" y="168" width="220" height="12" rx="3" fill="#787670"/>
+  <rect x="130" y="210" width="120" height="36" rx="6" fill="#E24A26"/>
+
+  <rect x="270" y="460" width="360" height="30" rx="15" fill="#161616"/>
+  <text x="450" y="480" font-family="sans-serif" font-size="12" font-weight="600" fill="#F4F3EF" text-anchor="middle" letter-spacing="1">PROJECT SCREENSHOT PLACEHOLDER</text>
+</svg>

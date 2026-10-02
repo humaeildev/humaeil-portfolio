@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" fill="none">
+  <rect width="1200" height="675" fill="#DFDBD0"/>
+  <rect x="40" y="40" width="1120" height="595" rx="10" fill="#F4F3EF" stroke="#C8C4B5" stroke-width="2"/>
+  
+  <rect x="100" y="100" width="1000" height="400" rx="8" fill="#161616"/>
+  <text x="600" y="270" font-family="sans-serif" font-size="32" font-weight="700" fill="#F4F3EF" text-anchor="middle" letter-spacing="2">CONVERSION LANDING PAGE</text>
+  <rect x="460" y="310" width="280" height="44" rx="22" fill="#E24A26"/>
+  <text x="600" y="337" font-family="sans-serif" font-size="14" font-weight="600" fill="#FFFFFF" text-anchor="middle" letter-spacing="1">GET STARTED NOW</text>
+
+  <rect x="420" y="530" width="360" height="30" rx="15" fill="#161616"/>
+  <text x="600" y="550" font-family="sans-serif" font-size="12" font-weight="600" fill="#F4F3EF" text-anchor="middle" letter-spacing="1">PROJECT SCREENSHOT PLACEHOLDER</text>
+</svg>

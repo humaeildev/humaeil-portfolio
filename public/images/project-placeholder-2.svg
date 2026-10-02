@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="675" viewBox="0 0 900 675" fill="none">
+  <rect width="900" height="675" fill="#E4E0D7"/>
+  <rect x="50" y="50" width="800" height="575" rx="8" fill="#F4F3EF" stroke="#D3CFBF" stroke-width="2"/>
+  
+  <!-- Header -->
+  <rect x="90" y="90" width="120" height="24" rx="4" fill="#161616"/>
+  <rect x="550" y="94" width="60" height="16" rx="3" fill="#787670"/>
+  <rect x="630" y="94" width="60" height="16" rx="3" fill="#787670"/>
+  <rect x="710" y="94" width="80" height="16" rx="3" fill="#E24A26"/>
+
+  <!-- Content Split -->
+  <rect x="90" y="160" width="340" height="28" rx="4" fill="#161616"/>
+  <rect x="90" y="202" width="280" height="14" rx="3" fill="#787670" opacity="0.7"/>
+  <rect x="90" y="226" width="220" height="14" rx="3" fill="#787670" opacity="0.5"/>
+  
+  <!-- Visual Grid -->
+  <rect x="90" y="280" width="220" height="260" rx="6" fill="#DCD7C9"/>
+  <rect x="330" y="280" width="220" height="260" rx="6" fill="#D3CEBE"/>
+  <rect x="570" y="280" width="220" height="260" rx="6" fill="#161616" opacity="0.9"/>
+  
+  <!-- Overlay Label -->
+  <rect x="270" y="570" width="360" height="30" rx="15" fill="#161616"/>
+  <text x="450" y="590" font-family="sans-serif" font-size="12" font-weight="600" fill="#F4F3EF" text-anchor="middle" letter-spacing="1">PROJECT SCREENSHOT PLACEHOLDER</text>
+</svg>

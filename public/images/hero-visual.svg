@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" fill="#E8E5DC"/>
+  <!-- Layer 1 Shadow frame -->
+  <rect x="60" y="70" width="680" height="480" rx="12" fill="#DFDBD0"/>
+  
+  <!-- Layer 2 Main Browser frame -->
+  <rect x="40" y="50" width="680" height="480" rx="12" fill="#F4F3EF" stroke="#D3CFBF" stroke-width="2"/>
+  
+  <!-- Browser Chrome Header -->
+  <rect x="40" y="50" width="680" height="40" rx="12" fill="#E8E5DC"/>
+  <circle cx="70" cy="70" r="5" fill="#E24A26"/>
+  <circle cx="88" cy="70" r="5" fill="#E5B25D"/>
+  <circle cx="106" cy="70" r="5" fill="#75B086"/>
+  <rect x="140" y="61" width="240" height="18" rx="4" fill="#D8D4C9"/>
+
+  <!-- Content Layout Mockup -->
+  <rect x="80" y="120" width="300" height="32" rx="4" fill="#161616"/>
+  <rect x="80" y="165" width="220" height="14" rx="3" fill="#787670" opacity="0.6"/>
+  <rect x="80" y="187" width="180" height="14" rx="3" fill="#787670" opacity="0.4"/>
+  
+  <rect x="80" y="225" width="140" height="40" rx="6" fill="#E24A26"/>
+  
+  <!-- Visual Product Preview Cards inside mockup -->
+  <rect x="420" y="120" width="260" height="360" rx="8" fill="#161616"/>
+  <rect x="440" y="140" width="220" height="180" rx="4" fill="#EAE7E0"/>
+  <rect x="440" y="340" width="160" height="18" rx="3" fill="#F4F3EF"/>
+  <rect x="440" y="370" width="100" height="12" rx="3" fill="#E24A26"/>
+  <rect x="440" y="400" width="180" height="30" rx="4" fill="#F4F3EF" opacity="0.2"/>
+
+  <rect x="80" y="300" width="310" height="180" rx="8" fill="#DED9CC"/>
+</svg>
